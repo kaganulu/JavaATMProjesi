@@ -1,0 +1,5 @@
+4
+kaganulu,123456,kagan,ulu,0,0,0,true,0,0
+Cccc,123456,deneme,biriki,0,0,0,true,0,0
+Eeee,123456,deneme1,ikiuc,0,0,0,true,0,0
+kagan,123456,null,null,0,0,0,true,0,0
